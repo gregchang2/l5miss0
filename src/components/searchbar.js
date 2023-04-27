@@ -18,7 +18,7 @@ function SearchBar(props) {
       <form className="searchbar" onSubmit={handleSubmit}>
         <input
           type="text"
-          placeholder="Search..."
+          placeholder="Search a player name"
           value={query}
           onChange={handleChange}
         />

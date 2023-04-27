@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <img src="/logo.jpg" alt="dsg" />
-      <h3>Disguised Gaming Fansite</h3>
+      <h3>Disguised Fansite</h3>
       <ul>
         <li>
           <a href="#">Home</a>
