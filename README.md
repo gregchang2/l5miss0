@@ -1,3 +1,8 @@
+# React App with Components
+
+This repository contains a React application that demonstrates the usage of components. It includes a navbar, search bar, grid component, and a footer.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
